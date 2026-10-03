@@ -1,1 +1,44 @@
+/* ==========================================
+   FILE STYLE.CSS RÁC - HOÀN TOÀN KHÔNG CHẠY ĐƯỢC
+   ========================================== */
+
+/* Lỗi 1: Tên bộ chọn (Selector) bắt đầu bằng số và chứa ký tự cấm */
+12345!@#$ rác-css-vô-nghĩa {
+    color: red;
+}
+
+/* Lỗi 2: Thuộc tính và giá trị viết sai chính tả hệ thống */
+body {
+    backgroud-colr: bluuu;
+    widh: 1000000chân;
+    font-size: bự-quá-bự;
+}
+
+/* Lỗi 3: Thiếu dấu ngoặc nhọn đóng, làm hỏng toàn bộ code phía sau */
+.lop-bi-loi {
+    display: block;
+    margin: 20px;
+    /* Không có dấu đóng ngoặc } ở đây */
+
+/* Lỗi 4: Sử dụng các ký tự toán học và câu lệnh tùy tiện không có trong CSS */
+#id-loi-cu-phap {
+    if (width > 500px) {
+        padding = 10 + 20;
+    }
+}
+
+/* Lỗi 5: Giá trị thuộc tính bị bỏ lửng, thiếu dấu chấm phẩy */
+h1 {
+    font-family: "Arial"
+    background: 
+    color: 
+}
+
+/* Lỗi 6: Viết chuỗi văn bản tự do không nằm trong thuộc tính nào */
+Chào bạn, đây là một đoạn văn bản rác viết thẳng vào file CSS để trình duyệt báo lỗi báo lỗi;
+
+/* Lỗi 7: Khai báo @media (Responsive) sai cấu trúc và không bao giờ đóng */
+@media screen and (max-width: 768px)
+    .container 
+        width: 100%
 
