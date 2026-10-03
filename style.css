@@ -1,44 +1,115 @@
-/* ==========================================
-   FILE STYLE.CSS RÁC - HOÀN TOÀN KHÔNG CHẠY ĐƯỢC
-   ========================================== */
+/* ==========================================================================
+   FILE STYLE.CSS RÁC - SIÊU DÀI - HOÀN TOÀN KHÔNG CHẠY ĐƯỢC
+   ========================================================================== */
 
-/* Lỗi 1: Tên bộ chọn (Selector) bắt đầu bằng số và chứa ký tự cấm */
-12345!@#$ rác-css-vô-nghĩa {
-    color: red;
+/* LỖI KHỐI 1: BỘ CHỌN (SELECTOR) BẤT HỢP PHÁP & KÝ TỰ ĐẶC BIỆT CẤM */
+123456789!@#$%^&*()_+= RAC_CSS_KHO_TANG_1 {
+    color: red-blue-green-yellow-rainbow;
+    width: 9999999999999chân;
+    height: không-có-thực;
+    margin: 10bước 20bước;
 }
 
-/* Lỗi 2: Thuộc tính và giá trị viết sai chính tả hệ thống */
-body {
-    backgroud-colr: bluuu;
-    widh: 1000000chân;
-    font-size: bự-quá-bự;
+987654321~`<>?,./;:'" RAC_CSS_KHO_TANG_2 {
+    backgroud-color-sai-chinh-ta: #XYZ12345;
+    padding: một-đống-rác-ở-đây;
+    display: biến-mất;
 }
 
-/* Lỗi 3: Thiếu dấu ngoặc nhọn đóng, làm hỏng toàn bộ code phía sau */
-.lop-bi-loi {
-    display: block;
-    margin: 20px;
-    /* Không có dấu đóng ngoặc } ở đây */
+/* LỖI KHỐI 2: VIẾT VĂN BẢN TỰ DO KHÔNG CÓ CẤU TRÚC CSS */
+Chào bạn, đây là một đoạn văn bản rác được viết thẳng vào file CSS. 
+Nó không có thuộc tính, không có bộ chọn, không có dấu ngoặc. 
+Trình duyệt đọc đến đây chắc chắn sẽ bị loạn và vứt bỏ toàn bộ đoạn này.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Hủy diệt cú pháp CSS ngay lập tức tại dòng này!
 
-/* Lỗi 4: Sử dụng các ký tự toán học và câu lệnh tùy tiện không có trong CSS */
-#id-loi-cu-phap {
-    if (width > 500px) {
-        padding = 10 + 20;
+/* LỖI KHỐI 3: THIẾU DẤU NGOẶC ĐÓNG } (GÂY LỖI DÂY CHUYỀN CHO TOÀN BỘ PHÍA SAU) */
+.lop-gay-loi-day-chuyen-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Cố tình không đóng ngoặc } ở đây */
+
+.lop-bi-anh-huong-2 {
+    background: url(không-có-ảnh.jpg);
+    border: 5px solid bậy-bạ;
+    /* Tiếp tục không đóng ngoặc } */
+
+.lop-bi-anh-huong-3 {
+    opacity: 0.1.2.3.4.5;
+    font-size: siêu-to-khổng-lồ;
+    /* Vẫn không đóng ngoặc } */
+
+/* LỖI KHỐI 4: LỒNG GHÉP CÂU LỆNH LẬP TRÌNH SAI PHÉP TRONG CSS */
+if (window.width > 1000px) {
+    #id-khong-ton-tai {
+        width = 100%;
+        height = 500px;
+    }
+} else {
+    for (let i = 0; i < 100; i++) {
+        .vong-lap-rac {
+            margin-top: i + px;
+        }
     }
 }
 
-/* Lỗi 5: Giá trị thuộc tính bị bỏ lửng, thiếu dấu chấm phẩy */
-h1 {
-    font-family: "Arial"
-    background: 
-    color: 
+while (background == red) {
+    .vong-lap-vo-han-loi {
+        animation: xoay-vòng-vòng 1s;
+    }
 }
 
-/* Lỗi 6: Viết chuỗi văn bản tự do không nằm trong thuộc tính nào */
-Chào bạn, đây là một đoạn văn bản rác viết thẳng vào file CSS để trình duyệt báo lỗi báo lỗi;
+/* LỖI KHỐI 5: THUỘC TÍNH BỊ BỎ LỬNG, KHÔNG CÓ GIÁ TRỊ, THIẾU DẤU CHẤM PHẨY */
+h1 {
+    font-family: 
+    background-color: 
+    color: 
+    border-radius: 
+    box-shadow: 
+}
 
-/* Lỗi 7: Khai báo @media (Responsive) sai cấu trúc và không bao giờ đóng */
-@media screen and (max-width: 768px)
-    .container 
-        width: 100%
+h2 {
+    width: 100px
+    height: 200px
+    margin: 0
+    padding: 0
+    /* Thiếu toàn bộ dấu chấm phẩy và giá trị nhảy cóc */
+    background: red
+    color: blue
+}
 
+/* LỖI KHỐI 6: KHAI BÁO @MEDIA RESPONSIVE SAI CÚ PHÁP NGHIÊM TRỌNG */
+@media screen chỉ-chạy-trên-máy-tính-rác (max-width: abcxyzpx)
+    .khung-giao-dien {
+        width: lỗi-nặng;
+        float: trái-phải-vô-định;
+    }
+    /* Không đóng ngoặc của @media */
+
+/* LỖI KHỐI 7: ĐOẠN CSS RÁC SIÊU DÀI LẶP ĐI LẶP LẠI ĐỂ TĂNG DUNG LƯỢNG */
+#rac-lap-lai-1 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-2 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-3 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-4 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-5 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-6 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-7 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-8 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-9 { !!!loi-nghiem-trong!!! }
+#rac-lap-lai-10 { !!!loi-nghiem-trong!!! }
+
+.chuoi-loi-dai-vo-tan {
+    content: "Dòng này kéo dài lê thê lướt thướt......................................................................................................................................................................................................................................................................................................................................................... Không bao giờ đóng ngoặc kép;
+}
+
+/* LỖI KHỐI 8: GÁN THUỘC TÍNH CSS CHO CÁC HÀM TRỰC TIẾP */
+calc(100% - 20px) {
+    background: none;
+}
+var(--my-color) {
+    color: black;
+}
+
+/* KẾT THÚC FILE CSS RÁC KHÔNG THỂ CHẠY */
